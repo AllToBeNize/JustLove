@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!/.gitattributes
+!/Source/
+!/Plugins/
+/Plugins/*/Intermediate/*
+/Plugins/*/Binaries/*
