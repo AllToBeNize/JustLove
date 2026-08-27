@@ -3,5 +3,6 @@
 !/.gitattributes
 !/Source/
 !/Plugins/
+!/Script/
 /Plugins/*/Intermediate/*
 /Plugins/*/Binaries/*
